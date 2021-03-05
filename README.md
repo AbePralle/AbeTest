@@ -5,3 +5,4 @@ Gamma
 Delta
 Epsilon
 Theta
+Omega
